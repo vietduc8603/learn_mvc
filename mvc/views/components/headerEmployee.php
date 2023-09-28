@@ -24,7 +24,7 @@
                             <a class="nav-link" href="../../../../learn_mvc/QuanLyPhongForNhanVien">Quản lý phòng</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./quanLyDichVu">Quản lý dịch vụ</a>
+                            <a class="nav-link" href="../../../../learn_mvc/QuanLyDichVuForNhanVien">Quản lý dịch vụ</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="./quanLyKhachHang">Quản lý khách hàng</a>
