@@ -43,7 +43,7 @@ class QuanLyDichVuForNhanVien extends Controller
         $dataservice = $serviceModel->getService($id);
 
         $this->view("fullLayout",[
-            "container" => "suadichvu",
+            "container" => "suadichvuForNV",
             "service" => $dataservice,
             
         ]);
